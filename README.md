@@ -76,3 +76,8 @@ Este projeto está sob a licença [MIT](LICENSE) - veja o arquivo de licença pa
 ---
 
 ✨ *Desenvolvido 
+
+Ramon Pereira de Castro 
+Gabriel Abdon Silva Marques Cirino
+Mickael costa 
+Pedro Vinicius chaves braga
